@@ -1,1 +1,2 @@
-# AWS_SNS_Messaging_Project
+# AWS SNS Messaging Project
+
