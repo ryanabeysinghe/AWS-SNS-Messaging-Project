@@ -22,7 +22,7 @@ public class AwsSNSClient {
 	
 	static {
 		System.setProperty(AWS_ACCESS_KEY_ID, "AKIA4KXGF2IGZZMKC6F5"); 
-		System.setProperty(AWS_SECRET_KEY, "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"); 
+		System.setProperty(AWS_SECRET_KEY, "Enter Secret Key (Must remain confidential for security purposes)"); 
 	}
 	
 	public static void main(String[] args) {
